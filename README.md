@@ -1,7 +1,7 @@
 
 # Hello coders & developers!
 
-- 👋 Hi, I’m @KunalGhosh01, currently a 4th year Bachelors in Electronics and Communication Engineering.
+- 👋 Hi, I’m @KunalGhosh01, currently a Final Year Bachelors in Electronics and Communication Engineering.
 - 👀 I’m interested in ML and Data Science. 
 - 🌱 I’m currently learning Data Science tools, Python libraries: NumPys,Pandas, Scikit-learn etc. 
 - 💞️ I’m looking to collaborate on Data Science and ML projects and wants contribute in the Open Source.
